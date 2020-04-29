@@ -27,11 +27,11 @@ def banner():
 	print('\t ==--==--==--==--==--==--==--==--==--==--==')
 	print('\t ==--==--==--==--==--==--==--==--==--==--==')
 	print('\n')
-	print('\t eg - Enter your movie link :: https://www.roda.site/blah...')
+	print('\t eg - Enter your movie link ::https://www.thecmpage.com/blah...')
 	print('\n')
 
 def bypass():
-	url = input('\nEnter your movie link :: ')
+	url = input('\n Enter your movie link :: ')
 	code = url.split("/?r=")[1]
 	output_link = base64.b64decode(code)
 	print('\n [#] Original Download Link is here :p >>> '+output_link.decode())
