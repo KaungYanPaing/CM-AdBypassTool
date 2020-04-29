@@ -2,7 +2,7 @@
 
  Reqirement - Python3 <br>
  
- Usage - python3 .py <br>
+ Usage - python3 Ad_Skipper.py<br>
  
  Input your download link <br>
  
