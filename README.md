@@ -8,6 +8,6 @@
  
  eg - Enter your movie link :: https://www.roda.site/blah... <br>
  
-CM ad link skip to original movie file link.
+CM ad link skip to original movie download file link.
 
 
