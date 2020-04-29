@@ -6,7 +6,7 @@
  
  Input your download link <br>
  
- eg - Enter your movie link :: https://www.roda.site/blah... <br>
+ eg - Enter your movie link :: https://www.thecmpage.com/blah... <br>
  
 CM ad link skip to original movie download file link.
 
