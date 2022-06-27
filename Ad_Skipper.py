@@ -23,7 +23,7 @@ def banner():
 	print('\t ==--==--==--==--==--==--==--==--==--==--==')
 	print('\t ==--==--==--==--==--==--==--==--==--==--==')
 	print('\t ==-- Channel Myanmar Movie Ad Skipper --==')
-	print('\t ==--          Author : T0x1c          --==')
+	print('\t ==--       Author : KaungKaung        --==')
 	print('\t ==--==--==--==--==--==--==--==--==--==--==')
 	print('\t ==--==--==--==--==--==--==--==--==--==--==')
 	print('\n')
